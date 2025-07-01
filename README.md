@@ -24,8 +24,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Let’s+connect+and+build+something+amazing!&center=true&width=500&height=40" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" alt="Typing animation" width="500" />
 </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikatkumar421) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mondalsaikatkumar@gmail.com) 
 
