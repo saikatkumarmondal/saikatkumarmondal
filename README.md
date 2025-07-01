@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Saikat Mondal</h1>
+<h1 align="center">👋 Hi, I’m Saikat Kumar Mondal</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C50F4D&background=5DC98F00&vCenter=true&width=435&lines=+++%F0%9F%8C%90+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
 ---
