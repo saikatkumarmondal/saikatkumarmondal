@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626,7f1d1d&height=180&section=header&text=Saikat%20Kumar%20Mondal&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Remote%20%26%20Onsite%20Ready&descSize=16&descAlignY=68&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=dc2626,7f1d1d&amp;height=180&amp;section=header&amp;text=Saikat%20Kumar%20Mondal&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Full%20Stack%20Developer%20%7C%20Remote%20%26%20Onsite%20Ready&amp;descSize=16&amp;descAlignY=68&amp;animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=680&height=52&lines=Full+Stack+Developer+%7C+Bangladesh;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Building+Scalable+SaaS+Applications;Available+for+Remote+%26+Onsite+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=DC2626&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=52&amp;lines=Full+Stack+Developer+%7C+Bangladesh;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Building+Scalable+SaaS+Applications;Available+for+Remote+%26+Onsite+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,13 +62,13 @@ const saikat = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikatkumarmondal&show_icons=true&theme=dark&bg_color=0d1117&border_color=dc2626&title_color=dc2626&icon_color=dc2626&text_color=ffffff&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikatkumarmondal&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1117&amp;border_color=dc2626&amp;title_color=dc2626&amp;icon_color=dc2626&amp;text_color=ffffff&amp;hide_border=false" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatkumarmondal&layout=compact&theme=dark&bg_color=0d1117&border_color=dc2626&title_color=dc2626&text_color=ffffff&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatkumarmondal&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;border_color=dc2626&amp;title_color=dc2626&amp;text_color=ffffff&amp;hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatkumarmondal&theme=dark&background=0d1117&border=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatkumarmondal&amp;theme=dark&amp;background=0d1117&amp;border=dc2626&amp;ring=dc2626&amp;fire=dc2626&amp;currStreakLabel=dc2626" />
 
 </div>
 
@@ -113,6 +113,6 @@ const saikat = {
 
 *Let's build something great together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626,7f1d1d&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=dc2626,7f1d1d&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
 
 </div>
