@@ -1,201 +1,143 @@
 <div align="center">
 
-<!-- 3D Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Saikat%20Kumar%20Mondal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Bangladesh&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=dc2626&height=200&section=header&text=Saikat%20Kumar%20Mondal&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20Remote%20%26%20Onsite%20Ready&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Transforming+Ideas+Into+Scalable+Apps+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Next.js+%7C+Spring+Boot;Building+High-Performance+Web+Experiences+%E2%9A%A1;SaaS+%7C+System+Design+%7C+Remote+Ready+%F0%9F%8C%90" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=680&height=52&lines=Full+Stack+Developer+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Building+Scalable+SaaS+Applications;Available+for+Remote+%26+Onsite+Opportunities+%F0%9F%8C%8D" alt="Typing SVG"/></a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=saikatkumarmondal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=saikatkumarmondal&style=for-the-badge&color=dc2626&label=PROFILE+VIEWS)
 &nbsp;
-<img src="https://img.shields.io/github/followers/saikatkumarmondal?style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=FOLLOWERS" alt="Followers"/>
+![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-dc2626?style=for-the-badge&logo=checkmarx&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/LOCATION-BANGLADESH-dc2626?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-<!-- About Me — 3D Card Layout -->
 <div align="center">
 
-## 🧬 About Me
+### ⚡ Available for Remote & Onsite Roles Worldwide
 
 </div>
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  👨‍💻  DEVELOPER PROFILE                                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Name        ▸  Saikat Kumar Mondal                         ║
-║  Location    ▸  Bangladesh 🇧🇩                               ║
-║  Role        ▸  Full Stack Developer                        ║
-║  Status      ▸  Open to Remote Opportunities 🌐             ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  🎯 CURRENT FOCUS                                            ║
-║  ▸  SaaS Application Architecture                           ║
-║  ▸  Scalable System Design                                   ║
-║  ▸  Remote Collaboration                                     ║
-╚══════════════════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════╗
+║  NAME       ▸  Saikat Kumar Mondal                  ║
+║  ROLE       ▸  Full Stack Developer                 ║
+║  LOCATION   ▸  Bangladesh  (Remote / Relocation OK) ║
+║  STATUS     ▸  ● OPEN TO WORK — Remote & Onsite     ║
+║  FOCUS      ▸  SaaS · System Design · Scale         ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- Mission Statement -->
-<div align="center">
-
 ## 🚀 Mission
 
-<table>
-  <tr>
-    <td align="center" width="700">
-      <br/>
-      <h3>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-        &nbsp;
-        <em>"Transforming ideas into scalable, high-performance web applications — one commit at a time."</em>
-      </h3>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-</div>
+> **Transforming ideas into scalable, high-performance web applications.**
+> I architect full-stack systems from zero — clean APIs, fast frontends, production-grade infrastructure.
 
 ---
-
-<!-- Tech Stack — Animated 3D Badges -->
-<div align="center">
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
+**Frontend**
 <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark"/>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css&theme=dark&perline=7" />
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql&theme=dark"/>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark&perline=4" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgresql&theme=dark&perline=4" />
-
-### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma&theme=dark&perline=7" />
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
-
-<!-- GitHub Analytics — Wide Layout -->
-<div align="center">
 
 ## 📊 GitHub Analytics
 
-<br/>
+<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img height="195" src="https://github-readme-stats.vercel.app/api?username=saikatkumarmondal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&rank_icon=github" />
-    </td>
-    <td>
-      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatkumarmondal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saikatkumarmondal&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=dc2626&icon_color=dc2626&text_color=ffffff&ring_color=dc2626"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatkumarmondal&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=dc2626&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saikatkumarmondal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=f59e0b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=8b949e" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saikatkumarmondal&theme=radical&hide_border=true&background=0d0d0d&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=dc2626" width="500"/>
 
 </div>
 
 ---
 
-<!-- Contribution Activity -->
+## 📈 Contribution Graph
+
 <div align="center">
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikatkumarmondal&bg_color=0d1117&color=7c3aed&line=7c3aed&point=0ea5e9&area=true&area_color=7c3aed&hide_border=true&custom_title=Saikat's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikatkumarmondal&bg_color=0d0d0d&color=dc2626&line=dc2626&point=ffffff&area=true&area_color=dc2626&hide_border=true" width="95%"/>
 
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<div align="center">
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikatkumarmondal/saikatkumarmondal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikatkumarmondal/saikatkumarmondal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saikatkumarmondal/saikatkumarmondal/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikatkumarmondal/saikatkumarmondal/output/github-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/saikatkumarmondal/saikatkumarmondal/output/github-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- Achievements -->
+## 🏆 Trophies
+
 <div align="center">
 
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=saikatkumarmondal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+<img src="https://github-profile-trophy.vercel.app/?username=saikatkumarmondal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
 ---
 
-<!-- Featured Skills — Animated Progress -->
-<div align="center">
+## 💼 What I Bring
 
-## 💎 Featured Skills
-
-</div>
-
-| Skill | Proficiency |
-|-------|-------------|
-| **React.js / Next.js** | `████████████████████` 95% |
-| **Node.js / Express** | `██████████████████░░` 90% |
-| **TypeScript** | `█████████████████░░░` 85% |
-| **Spring Boot (Java)** | `████████████████░░░░` 80% |
-| **MongoDB / MySQL** | `████████████████████` 92% |
-| **System Design** | `███████████████░░░░░` 78% |
-| **Docker / DevOps** | `█████████████░░░░░░░` 72% |
+| Area | Details |
+|------|---------|
+| **Frontend** | Production-grade React/Next.js apps with Tailwind & TypeScript |
+| **Backend** | REST & GraphQL APIs — Node/Express + Spring Boot (Java) |
+| **Database** | MongoDB, MySQL — schema design, indexing, query optimization |
+| **Architecture** | SaaS systems, microservices, system design at scale |
+| **Work Style** | Remote-first, async-friendly, fast communicator |
 
 ---
 
-<!-- Connect Section -->
+## 🌐 Connect & Hire
+
 <div align="center">
 
-## 🌐 Connect With Me
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikatkumarmondal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saikatkumarmondal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://saikatkumarmondal.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikatkumarmondal@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/saikatkumarmondal)
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-dc2626?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikatkumarmondal)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikatkumarmondal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-dc2626?style=for-the-badge&logo=vercel&logoColor=white)](https://saikatkumarmondal.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-dc2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikatkumarmondal)
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Amazing+%F0%9F%9A%80&fontSize=18&fontColor=7c3aed&fontAlignY=65" width="100%"/>
-
 <div align="center">
-  <sub>⚡ Crafted with passion by Saikat Kumar Mondal • Bangladesh 🇧🇩</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+**Open to Remote • Onsite • Relocation — Worldwide**
+
 </div>
